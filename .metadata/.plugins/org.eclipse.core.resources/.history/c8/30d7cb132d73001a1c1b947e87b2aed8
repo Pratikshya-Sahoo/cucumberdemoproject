@@ -1,0 +1,11 @@
+Feature: Demo Web Shop login
+  
+  Demo Web Shop login feature
+
+  Scenario Outline: employee appraisal
+    Given the emai id is "<emailid>"
+    When the password is "<password>"
+
+    Examples: 
+      | email                | password   |
+      | karthik456@gmail.com | karthik456 |

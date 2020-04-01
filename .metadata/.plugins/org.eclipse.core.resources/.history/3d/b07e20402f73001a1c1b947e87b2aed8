@@ -1,0 +1,17 @@
+Feature: Demo Web Shop login
+  
+  Demo Web Shop login feature
+
+  Scenario Outline: employee appraisal
+    Given user launched chrome browser
+    And user provides the valid url
+    And user clicks on login hyperlink
+    Given the emai id is "<emailid>"
+    When the password is "<password>"
+    And he clicks on Login button
+    Then user shall be able to view the homepage
+    And see the welcome message
+
+    Examples: 
+      | email                | password   |
+      | karthik456@gmail.com | karthik456 |

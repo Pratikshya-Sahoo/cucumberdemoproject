@@ -1,0 +1,9 @@
+package selinum_practice;
+
+import org.testng.annotations.Test;
+
+public class winhandle_google {
+  @Test
+  public void f() {
+  }
+}

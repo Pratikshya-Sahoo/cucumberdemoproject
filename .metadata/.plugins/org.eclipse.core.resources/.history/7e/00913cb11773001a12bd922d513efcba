@@ -1,0 +1,9 @@
+package runner;
+
+import org.testng.annotations.Test;
+
+public class Testrunner1 {
+  @Test
+  public void f() {
+  }
+}

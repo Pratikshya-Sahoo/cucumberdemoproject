@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+<fullyQualifiedTypeName name="com.aventstack.extentreports.reporter.ExtentHtmlReporter"/>
+<fullyQualifiedTypeName name="com.aventstack.extentreports.ExtentReports"/>
+<fullyQualifiedTypeName name="com.aventstack.extentreports.ExtentTest"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+<fullyQualifiedTypeName name="com.aventstack.extentreports.reporter.configuration.Theme"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterMethod"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.testng.ITestResult"/>
+<fullyQualifiedTypeName name="org.testng.internal.DynamicGraph.Status"/>
+<fullyQualifiedTypeName name="com.aventstack.extentreports.markuputils.MarkupHelper"/>
+<fullyQualifiedTypeName name="com.aventstack.extentreports.markuputils.ExtentColor"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="cucumber.api.junit.Cucumber"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="io.cucumber.junit.CucumberOptions"/>
+<fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
+<fullyQualifiedTypeName name="io.cucumber.java.en.When"/>
+<fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+</qualifiedTypeNameHistroy>

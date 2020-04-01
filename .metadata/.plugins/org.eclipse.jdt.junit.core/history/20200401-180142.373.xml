@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="cuctagsrunner" project="practise" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="runner.cuctagsrunner" time="0.001">
+    <testsuite name="Feature: Title of your feature" time="0.001">
+      <testcase name="login to demowebshop" classname="Title of your feature" time="0.001">
+        <skipped>io.cucumber.junit.UndefinedThrowable: The step "Amy launched chrome browser" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "provided valid URL" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "Amy provides valid credentials" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "click on login" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "Amy shall see the home page" is undefined&#13;
+&#13;
+</skipped>
+      </testcase>
+      <testcase name="registration of user in demowebshop" classname="Title of your feature" time="0.0">
+        <skipped>io.cucumber.junit.UndefinedThrowable: The step "Amy is on registration page" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "Amy provides all the details" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "she shall be registered successfully" is undefined&#13;
+&#13;
+</skipped>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>
